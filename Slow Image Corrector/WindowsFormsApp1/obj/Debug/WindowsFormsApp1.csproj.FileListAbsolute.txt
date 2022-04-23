@@ -1,0 +1,50 @@
+C:\Users\Vasya\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Vasya\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Vasya\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Vasya\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Vasya\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Vasya\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Vasya\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Vasya\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Vasya\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Vasya\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Google Drive\Рабочее Место\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Google Drive\Рабочее Место\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Google Drive\Рабочее Место\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Google Drive\Рабочее Место\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\Google Drive\Рабочее Место\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Google Drive\Рабочее Место\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Google Drive\Рабочее Место\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Google Drive\Рабочее Место\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Google Drive\Рабочее Место\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Google Drive\Рабочее Место\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Google Drive\Рабочее Место\WindowsFormsApp - In Work\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Google Drive\Рабочее Место\WindowsFormsApp - In Work\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Google Drive\Рабочее Место\WindowsFormsApp - In Work\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Google Drive\Рабочее Место\WindowsFormsApp - In Work\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\Google Drive\Рабочее Место\WindowsFormsApp - In Work\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Google Drive\Рабочее Место\WindowsFormsApp - In Work\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Google Drive\Рабочее Место\WindowsFormsApp - In Work\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Google Drive\Рабочее Место\WindowsFormsApp - In Work\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Google Drive\Рабочее Место\WindowsFormsApp - In Work\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Google Drive\Рабочее Место\WindowsFormsApp - In Work\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
+D:\Google Drive\Рабочее Место\Slow Image Corrector\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Google Drive\Рабочее Место\Slow Image Corrector\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Google Drive\Рабочее Место\Slow Image Corrector\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Google Drive\Рабочее Место\Slow Image Corrector\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\Google Drive\Рабочее Место\Slow Image Corrector\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
+D:\Google Drive\Рабочее Место\Slow Image Corrector\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Google Drive\Рабочее Место\Slow Image Corrector\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Google Drive\Рабочее Место\Slow Image Corrector\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Google Drive\Рабочее Место\Slow Image Corrector\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Google Drive\Рабочее Место\Slow Image Corrector\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+H:\Slow Image Corrector\Slow Image Corrector\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+H:\Slow Image Corrector\Slow Image Corrector\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+H:\Slow Image Corrector\Slow Image Corrector\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+H:\Slow Image Corrector\Slow Image Corrector\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+H:\Slow Image Corrector\Slow Image Corrector\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
+H:\Slow Image Corrector\Slow Image Corrector\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+H:\Slow Image Corrector\Slow Image Corrector\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+H:\Slow Image Corrector\Slow Image Corrector\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+H:\Slow Image Corrector\Slow Image Corrector\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+H:\Slow Image Corrector\Slow Image Corrector\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
